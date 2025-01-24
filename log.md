@@ -9,7 +9,7 @@
 **Link(s) to work**
 1. [x.com](https://x.com/AshishUdbhav/status/1882496996877259109)
 
-### Day 0: Jan 24, Thursday
+### Day 1: Jan 24, Thursday
 
 **Today's Progress**: Sliding Sindow contd.
 
