@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+ # 100 Days Of Code - Log
 
 ### Day 0: Jan 23, Thursday
 
@@ -9,7 +9,7 @@
 **Link(s) to work**
 1. [x.com](https://x.com/AshishUdbhav/status/1882496996877259109)
 
-### Day 1: Jan 24, Thursday
+### Day 1: Jan 24, Friday
 
 **Today's Progress**: Sliding Sindow contd.
 
