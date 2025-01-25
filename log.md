@@ -17,3 +17,12 @@
 
 **Link(s) to work**
 1. [x.com](https://x.com/AshishUdbhav/status/1882842054474268992)
+
+### Day 2: Jan 25, Saturday
+
+**Today's Progress**: Longest Substring Without Repeating Characters
+
+**Thoughts**: Feeling motivated.
+
+**Link(s) to work**
+1. [x.com](https://x.com/AshishUdbhav/status/1883218005192302975)
