@@ -26,3 +26,21 @@
 
 **Link(s) to work**
 1. [x.com](https://x.com/AshishUdbhav/status/1883218005192302975)
+
+### Day 3: Feb 1, Saturday
+
+**Today's Progress**: Started building tic tac toe project to practice factory funtion and module pattern in js
+
+**Thoughts**: Feeling energized.
+
+**Link(s) to work**
+1. [Github Repo](https://github.com/Udbhav227/tic-tac-toe)
+
+### Day 4: Feb 2, Sunday (Saraswati Puja)
+
+**Today's Progress**: Completed UI components of the tic tac toe project
+
+**Thoughts**: Feeling good.
+
+**Link(s) to work**
+1. [Github Repo](https://github.com/Udbhav227/tic-tac-toe)
