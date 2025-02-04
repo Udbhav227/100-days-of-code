@@ -44,3 +44,13 @@
 
 **Link(s) to work**
 1. [Github Repo](https://github.com/Udbhav227/tic-tac-toe)
+
+### Day 5: Feb 3, Monday
+
+**Today's Progress**: Completed JS part of the tic tac toe project and made it responsive
+
+**Thoughts**: Feeling real good.
+
+**Link(s) to work**
+1. [Github Repo](https://github.com/Udbhav227/tic-tac-toe)
+2. [Live Website](https://udbhav227.github.io/tic-tac-toe/)
