@@ -54,3 +54,9 @@
 **Link(s) to work**
 1. [Github Repo](https://github.com/Udbhav227/tic-tac-toe)
 2. [Live Website](https://udbhav227.github.io/tic-tac-toe/)
+
+### Day 6: Feb 7, Friday
+
+**Today's Progress**: Started the project Posex like shell using java
+
+**Thoughts**: Its fun so far, i am enjoying it.
