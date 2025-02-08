@@ -60,3 +60,9 @@
 **Today's Progress**: Started the project Posex like shell using java
 
 **Thoughts**: Its fun so far, i am enjoying it.
+
+### Day 7: Feb 7, Saturday
+
+**Today's Progress**: Worked on Shell project, added functionality to navigation commands like cd and pwd. In webev learnt about class and npm.
+
+**Thoughts**: It was hard the shell one. 
