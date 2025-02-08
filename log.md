@@ -61,7 +61,7 @@
 
 **Thoughts**: Its fun so far, i am enjoying it.
 
-### Day 7: Feb 7, Saturday
+### Day 7: Feb 8, Saturday
 
 **Today's Progress**: Worked on Shell project, added functionality to navigation commands like cd and pwd. In webev learnt about class and npm.
 
