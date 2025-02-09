@@ -66,3 +66,12 @@
 **Today's Progress**: Worked on Shell project, added functionality to navigation commands like cd and pwd. In webev learnt about class and npm.
 
 **Thoughts**: It was hard the shell one. 
+
+### Day 8: Feb 9, Monday
+
+**Today's Progress**: Learned what Webpack is how to setup a project using webpack and started working on a project to practice npm and webpack.
+
+**Thoughts**: Kuch to ukhada bhai maine aaj. Mazaa aaya kuch bhi bolo, bs jldi se leetcode shuru krna hai!
+
+**Link(s) to work**
+1. [Github Repo](https://github.com/Udbhav227/restaurant-page)
