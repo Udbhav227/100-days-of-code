@@ -67,7 +67,7 @@
 
 **Thoughts**: It was hard the shell one. 
 
-### Day 8: Feb 9, Monday
+### Day 8: Feb 9, Sunday
 
 **Today's Progress**: Learned what Webpack is how to setup a project using webpack and started working on a project to practice npm and webpack.
 
