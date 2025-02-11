@@ -75,3 +75,10 @@
 
 **Link(s) to work**
 1. [Github Repo](https://github.com/Udbhav227/restaurant-page)
+
+### Day 9: Feb 11, Tuesday
+
+**Today's Progress**: Learned about JSON. Gathered material for DSA.
+
+**Thoughts**: Motivated to start DSA.
+
