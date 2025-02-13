@@ -82,3 +82,8 @@
 
 **Thoughts**: Motivated to start DSA.
 
+### Day 10: Feb 13, Thursday
+
+**Today's Progress**: Did some 2 pointers questions.
+
+
