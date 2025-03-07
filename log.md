@@ -86,4 +86,20 @@
 
 **Today's Progress**: Did some 2 pointers questions.
 
+### Day 11: Mar 6, Thrusday
+
+**Today's Progress**: Learnt about SOLID design principle.
+
+**Thoughts**: Forgot to update this. Completed the restaurant page.
+
+### Day 12: Mar 7, Friday
+
+**Today's Progress**: Learnt more about SOLID design principle. 
+
+**Thoughts**: Tommorow I will start todo list project.
+
+### Day 13: Mar 8, Saturday
+
+**Today's Progress**: 
+
 
